@@ -9,6 +9,8 @@ Rust isn't my first programming language and this are the programming languages 
 - Javascript
 - GDScript
 
+Also i've tried to learn rust a little while ago.
+
 ## Why Rust?
 
 I've looking for a programming language like C/C++ but with a more friendly and modern way to work with it.
