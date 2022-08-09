@@ -2,6 +2,8 @@
 
 ## Resources
 
+Same that yesterday
+
 ## What i learn
 
 I learn how to pass a trait as a parameter like in the following code:
